@@ -1,10 +1,10 @@
 #include <iostream>
-// incluse -> Comando para inclus„o de bibliotecas
-// <ionstream> -> Biblioteca de comandos b·sicos de entrada e saÌda (in/out)
+// incluse -> Comando para inclus√£o de bibliotecas
+// <ionstream> -> Biblioteca de comandos b√°sicos de entrada e sa√≠da (in/out)
 
 using namespace std;
-// namespace -> OrganizaÁ„o das bibliotecas criadas (organizaÁ„o de pstas)
-// std -> standard (padr„o)
+// namespace -> Organiza√ß√£o das bibliotecas criadas (organiza√ß√£o de pstas)
+// std -> standard (padr√£o)
 
 int main(){
 	
@@ -18,7 +18,7 @@ int main(){
 	return 0;
 }
 
-// no lugar de int poderia ser void -> retorno nulo (a funÁ„o n„o retorna nada)
+// no lugar de int poderia ser void -> retorno nulo (a fun√ß√£o n√£o retorna nada)
 // main -> principal
 // return 0; -> Retorna 0 e terminou
  
